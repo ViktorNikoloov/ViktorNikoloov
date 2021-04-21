@@ -12,7 +12,7 @@
 || ***🎓 Certificates:*** ||
 | :-: | :-: | :-: |
 | :heavy_check_mark: [**C# Basics 2020**](https://softuni.bg/certificates/details/81371/99d70d1e)| :heavy_check_mark: [**C# Fundamentals 2020**](https://softuni.bg/certificates/details/86238/dcced4d2) | :heavy_check_mark: [**C# Advanced 2020**](https://softuni.bg/certificates/details/90411/003b73d8) |
-| :heavy_check_mark: [**C# OOP 2020**](https://softuni.bg/certificates/details/95831/26523c53)| :heavy_check_mark: [**MS SQL 2021**](https://softuni.bg/certificates/details/98015/bb686a60)|| :heavy_check_mark: [**Entity Framework Core 2021**](https://softuni.bg/certificates/details/102724/5f0e3a60)|
+| :heavy_check_mark: [**C# OOP 2020**](https://softuni.bg/certificates/details/95831/26523c53)| :heavy_check_mark: [**MS SQL 2021**](https://softuni.bg/certificates/details/98015/bb686a60)| :heavy_check_mark: [**Entity Framework Core 2021**](https://softuni.bg/certificates/details/102724/5f0e3a60)||
 
 
 
