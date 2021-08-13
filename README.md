@@ -5,9 +5,9 @@
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorNikoloov&layout=compact&theme=tokyonight" />
 
 
-| ***📧 Connect me here:*** | ***SoftUni Repo Commit Activities:*** |
+| ***📧 Connect me here:*** | ***Blood-Donation Project Commits Activity:*** |
 | :-: | :-:|
-|[![Mail Badge](https://img.shields.io/badge/-ViktorNikoloov-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:viktor.g.nikolov@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-ViktorNikolov-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/viktor.nikolov/)](https://www.facebook.com/viktor.nikolov/) |![Week Commit Activity](https://img.shields.io/github/commit-activity/w/ViktorNikoloov/SoftUni?style=plastic) ![Month Commit Activity](https://img.shields.io/github/commit-activity/m/ViktorNikoloov/SoftUni?style=plastic) ![Year Commit Activity](https://img.shields.io/github/commit-activity/y/ViktorNikoloov/SoftUni?style=plastic)
+|[![Mail Badge](https://img.shields.io/badge/-ViktorNikoloov-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:viktor.g.nikolov@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-ViktorNikolov-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/viktor.nikolov/)](https://www.facebook.com/viktor.nikolov/) |![Week Commit Activity](https://img.shields.io/github/commit-activity/w/ViktorNikoloov/https://github.com/ViktorNikoloov/ASP.NET-Core-Project-Blood-Donation-System?style=plastic) ![Month Commit Activity](https://img.shields.io/github/commit-activity/m/ViktorNikoloov/https://github.com/ViktorNikoloov/ASP.NET-Core-Project-Blood-Donation-System?style=plastic) ![Year Commit Activity](https://img.shields.io/github/commit-activity/y/ViktorNikoloov/https://github.com/ViktorNikoloov/ASP.NET-Core-Project-Blood-Donation-System?style=plastic)
 
 || ***🎓 Certificates:*** |||
 | :-: | :-: | :-: | :-:|
