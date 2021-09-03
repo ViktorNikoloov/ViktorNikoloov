@@ -13,7 +13,8 @@
 | :-: | :-: | :-: |
 | :heavy_check_mark: [**C# Basics 2020**](https://softuni.bg/certificates/details/81371/99d70d1e)| :heavy_check_mark: [**C# Fundamentals 2020**](https://softuni.bg/certificates/details/86238/dcced4d2) | :heavy_check_mark: [**C# Advanced 2020**](https://softuni.bg/certificates/details/90411/003b73d8) |
 | :heavy_check_mark: [**C# OOP 2020**](https://softuni.bg/certificates/details/95831/26523c53)| :heavy_check_mark: [**MS SQL 2021**](https://softuni.bg/certificates/details/98015/bb686a60)| :heavy_check_mark: [**Entity Framework Core 2021**](https://softuni.bg/certificates/details/102724/5f0e3a60)||
-| :heavy_check_mark: [**C# Web Basics - May 2021**](https://softuni.bg/certificates/details/109513/8a54da9d)| :heavy_check_mark: [**ASP.NET Core - June 2021**](https://softuni.bg/certificates/details/113479/bb8087ea)
+| :heavy_check_mark: [**C# Web Basics - May 2021**](https://softuni.bg/certificates/details/109513/8a54da9d)| :heavy_check_mark: [**ASP.NET Core - June 2021**](https://softuni.bg/certificates/details/113479/bb8087ea) | :heavy_check_mark: [**Next Goal JS Advanced - start on September 2021**](https://softuni.bg/trainings/3487/js-advanced-september-2021)
+| :heavy_check_mark: [**Next Goal JS Applications - start on October 2021**](https://softuni.bg/trainings/3488/js-applications-october-2021)
 
 
 
