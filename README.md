@@ -1,9 +1,8 @@
 ## Hello there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">  <img width="85" height="25" src="https://visitor-badge.glitch.me/badge?page_id=ViktorNikoloov">
 ### My name is Viktor and I'm recently graduated as a **C#** developer at  [Software University](https://softuni.bg/) in Bulgaria. Now I'm continuing with my education as a **Full Stack** developer with **JavaScript**. My next goal is to study as possible as I can, stuff like Data Structures and Algorithms. And last but not least, I want to achieve my biggest dream and finding a job as a programmer.
 
-  <img height="130" align="left" src="https://github-readme-stats.vercel.app/api?username=ViktorNikoloov&count_private=true&theme=tokyonight&hide=prs&show_icons=true" />
+  <img height="130" align="left" src="https://github-readme-stats.vercel.app/api?username=ViktorNikoloov&count_private=true&theme=tokyonight&hide=issues&show_icons=true" />
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorNikoloov&layout=compact&theme=tokyonight" />
-
 
 | ***📧 Connect me here:*** |
 | :-: |
