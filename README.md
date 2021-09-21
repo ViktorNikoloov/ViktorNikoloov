@@ -6,7 +6,7 @@
 
 | ***📧 Connect me here:*** |
 | :-: |
-|[![Mail Badge](https://img.shields.io/badge/-ViktorNikoloov-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:viktor.g.nikolov@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-ViktorNikolov-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/viktor.nikolov/)](https://www.facebook.com/viktor.nikolov/)
+|[![Mail Badge](https://img.shields.io/badge/-ViktorNikoloov-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:viktor.g.nikolov@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-ViktorNikolov-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/viktor.nikolov/)](https://www.facebook.com/viktor.nikolov/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&labelColor=1ca0f1&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-nikolov-6b5671221/)
 
 |**Courses**|**Certificates**| 
    | :---:  | :---:  |
