@@ -1,5 +1,6 @@
 ## Hello there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">  <img width="85" height="25" src="https://visitor-badge.glitch.me/badge?page_id=ViktorNikoloov">
-### My name is Viktor and I have recently graduated as a **C#** developer at  [Software University](https://softuni.bg/) in Bulgaria. At the moment I am continuing my education in **JavaScript** in order to improve my front-end skillset and become a Full-Stack developer. What is more, my next goal is to expand my knowledge even further and study intensively so that I can acquire skills in areas like Data Structures and Algorithms as soon as possible. And last but not least, I want to fulfill my biggest dream and find a job as a developer.
+### My name is Viktor. I am junior .Net developer at [INDEAVR](https://indeavr.com/).
+I had graduated as a **C#** developer at  [Software University](https://softuni.bg/) in Bulgaria. At the moment I am continuing my education in **JavaScript** in order to improve my front-end skillset and become a Full-Stack developer. What is more, my next goal is to expand my knowledge even further and study intensively so that I can acquire skills in areas like Data Structures and Algorithms as soon as possible. And last but not least, I want to fulfill my biggest dream and find a job as a developer.
 
   <img height="130" align="left" src="https://github-readme-stats.vercel.app/api?username=ViktorNikoloov&count_private=true&theme=tokyonight&hide=issues&show_icons=true" />
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorNikoloov&layout=compact&theme=tokyonight" />
@@ -18,8 +19,8 @@
    |<a href="https://softuni.bg/trainings/3221/entity-framework-core-february-2021"> **Entity Framework Core** </a>| <a href="https://softuni.bg/certificates/details/102724/5f0e3a60"> Link</a> |
    |<a href="https://softuni.bg/trainings/3353/csharp-web-basics-basics-may-2021/internal"> **C# Web Basics - May 2021** </a>| <a href="https://softuni.bg/certificates/details/109513/8a54da9d"> Link</a> |
    |<a href="https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021"> **ASP.NET Core - June 2021** </a>| <a href="https://softuni.bg/certificates/details/113479/bb8087ea"> Link</a> |
-   |<a href="https://softuni.bg/trainings/3487/js-advanced-september-2021"> **JS Advanced - September 2021** </a>| <a href="https://github.com/ViktorNikoloov/SoftUni/tree/master/Homeworks/10.JS%20Advanced"> Studying now</a> |
-   |<a href="https://softuni.bg/trainings/3488/js-applications-october-2021"> **Next Goal - JS Applications - start on October 2021** </a>| <a href="https://github.com/ViktorNikoloov/SoftUni/tree/master/Homeworks"> Link</a> |
+   |<a href="https://softuni.bg/trainings/3487/js-advanced-september-2021"> **JS Advanced - September 2021** </a>| <a href="https://softuni.bg/certificates/details/114954/fbde4ae8"> Link</a> |
+   |<a href="https://softuni.bg/trainings/3488/js-applications-october-2021"> **JS Applications** </a>| <a href="https://github.com/ViktorNikoloov/SoftUni/tree/master/Homeworks">Studying now</a> |
 
 
 
