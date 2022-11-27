@@ -20,7 +20,8 @@ I had graduated as a **C#** developer at  [Software University](https://softuni.
    |<a href="https://softuni.bg/trainings/3353/csharp-web-basics-basics-may-2021/internal"> **C# Web Basics - May 2021** </a>| <a href="https://softuni.bg/certificates/details/109513/8a54da9d"> Link</a> |
    |<a href="https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021"> **ASP.NET Core - June 2021** </a>| <a href="https://softuni.bg/certificates/details/113479/bb8087ea"> Link</a> |
    |<a href="https://softuni.bg/trainings/3487/js-advanced-september-2021"> **JS Advanced - September 2021** </a>| <a href="https://softuni.bg/certificates/details/114954/fbde4ae8"> Link</a> |
-   |<a href="https://softuni.bg/trainings/3488/js-applications-october-2021"> **JS Applications** </a>| <a href="https://github.com/ViktorNikoloov/SoftUni/tree/master/Homeworks">Studying now</a> |
+   |<a href="https://softuni.bg/trainings/3488/js-applications-october-2021"> **JS Applications** </a>| <a href="https://softuni.bg/certificates/details/141553/96ba8218">Link</a> |
+   |<a href="https://softuni.bg/trainings/3921/data-structures-fundamentals-with-csharp-november-2022"> **Data Structures Fundamentals** </a>| <a href="https://github.com/ViktorNikoloov/SoftUni/tree/master/Homeworks/12.Data%20Structures">Studying now</a> |
 
 
 
